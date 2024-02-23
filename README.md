@@ -212,14 +212,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bawantha395/count.svg?"  />
-</div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bawantha395/count.svg?"  />
-</div>
-
-###
