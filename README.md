@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">-🎓 Following a Computer Engineering degree at University of Ruhuna.<br><br>-👨‍🎓 Exploring new technologies.<br><br>-👨‍💻 Frontend Web Developer.<br><br>-🏡 Lives in Anuradhapura, Sri Lanka.<br><br>-⚡ Fun Facts : 🍕 🏏 📷 💻.</p>
+<h5 align="left">-🎓 Following a Computer Engineering degree at University of Ruhuna.<br><br>-👨‍🎓 Exploring new technologies.<br><br>-👨‍💻 Frontend Web Developer.<br><br>-🏡 Lives in Anuradhapura, Sri Lanka.<br><br>-⚡ Fun Facts : 🍕 🏏 📷 💻.</h5>
 
 ###
 
@@ -200,7 +200,7 @@
 
 ###
 
-<p align="left">- Name : Integrated Attendance Tracking System with Learning Management System<br><br>- Technologies used : MERN stack<br><br>- Collaborators : OshanYelena<br><br>- https://github.com/OshanYelena/IOT_Attendance_system</p>
+<h5 align="left">- Name : Integrated Attendance Tracking System with Learning Management System<br><br>- Technologies used : MERN stack<br><br>- Collaborators : OshanYelena<br><br>- https://github.com/OshanYelena/IOT_Attendance_system</h5>
 
 ###
 
@@ -212,7 +212,14 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bawantha395/count.svg?"  />
+</div>
 
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bawantha395/count.svg?"  />
+</div>
 
-
+###
