@@ -10,6 +10,10 @@
 
 ###
 
+<h1 align="center"></h1>
+
+###
+
 <h3 align="left">Connect with me 😎 :</h3>
 
 ###
@@ -35,6 +39,10 @@
 ###
 
 <h6 align="left">💬 If you have any question/feedback, please do not hesitate to reach out to me!</h6>
+
+###
+
+<h1 align="center"></h1>
 
 ###
 
@@ -154,15 +162,23 @@
 
 ###
 
+<h1 align="center"></h1>
+
+###
+
 <h3 align="left">GitHub Stats 📈 :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bawantha395&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=bawantha395&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=bawantha395&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=bawantha395&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bawantha395&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h1 align="center"></h1>
 
 ###
 
@@ -176,11 +192,19 @@
 
 ###
 
+<h1 align="center"></h1>
+
+###
+
 <h3 align="left">📑Working Projects:</h3>
 
 ###
 
 <p align="left">- Name : Integrated Attendance Tracking System with Learning Management System<br><br>- Technologies used : MERN stack<br><br>- Collaborators : OshanYelena<br><br>- https://github.com/OshanYelena/IOT_Attendance_system</p>
+
+###
+
+<h1 align="center"></h1>
 
 ###
 
