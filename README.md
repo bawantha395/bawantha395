@@ -208,7 +208,8 @@
 
 ###
 
-<p align="left">Credit: bawantha395</p>
+<p align="left">Credit: <a href="https://github.com/bawantha395">bawantha395</a></p>
+
 
 ###
 
