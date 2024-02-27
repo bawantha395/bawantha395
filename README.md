@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">-🎓 Following a Computer Engineering degree at University of Ruhuna.<br><br>-👨‍🎓 Exploring new technologies.<br><br>-👨‍💻 Frontend Web Developer.<br><br>-🏡 Lives in Anuradhapura, Sri Lanka.<br><br>-⚡ Fun Facts : 🍕 🏏 📷 💻.</h5>
+<h5 align="left">-🎓 Reading for   Computer Engineering degree at University of Ruhuna.<br><br>-👨‍🎓 Exploring new technologies.<br><br>-👨‍💻 Frontend Web Developer.<br><br>-🏡 Lives in Anuradhapura, Sri Lanka.<br><br>-⚡ Fun Facts : 🍕 🏏 📷 💻.</h5>
 
 ###
 
