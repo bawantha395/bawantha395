@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bawantha-rathnayake-1896082b6/" target="_blank">
+  <a href="https://www.linkedin.com/in/rathnayake-rmbtm/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
   </a>
   <a href="bawantharathnayake395@gmail.com" target="_blank">
