@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Bawantha Rathnayake</h1>
 
-<h3 align="center">Computer Engineering Graduate | DevOps Engineer | SDET | Full-Stack Developer</h3>
+<h3 align="center">Computer Engineering Graduate | DevOps & Cloud Engineer | SDET | Full-Stack Developer</h3>
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 <h5 align="left">
 - 🎓 B.Sc. (Hons) in Computer Engineering — University of Ruhuna, Sri Lanka (2021–2025)<br><br>
-- 💼 Ex-SDET Intern @ <strong>PickMe</strong> — Built test automation frameworks with Selenium, Appium, TestNG & Jenkins CI/CD<br><br>
+- 💼 Ex-SDET Intern @ <strong>PickMe</strong> — Built test automation frameworks with Selenium, Appium, TestNG & LambdaTest in an Agile environment<br><br>
+- ☁️ Deployed a <strong>live production microservices system</strong> on AWS — EC2, RDS, S3, CloudFront, ALB, WAF, KMS, ACM, SES & IAM<br><br>
 - 🚀 Passionate about <strong>DevOps</strong>, Cloud Infrastructure, CI/CD Automation & Container Orchestration<br><br>
-- ☁️ Certified in <strong>AWS, Docker & Kubernetes</strong><br><br>
+- 🏅 Certified in <strong>AWS, Docker & Kubernetes</strong><br><br>
+- 📝 Writing about DevOps & Cloud on <a href="https://medium.com/@rathnayakermbtm" target="_blank">Medium</a><br><br>
 - 🏡 Based in Sri Lanka<br><br>
 - ⚡ Fun Facts: 🍕 🏏 📷 💻
 </h5>
-
-###
-
-<h1 align="center"></h1>
 
 ###
 
@@ -46,11 +44,45 @@
 
 ###
 
-<h1 align="center"></h1>
+<h3 align="left">🧑‍💻 Tech Stack & Skills:</h3>
+
+<h5 align="left">☁️ DevOps, CI/CD & Cloud:</h5>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="40" alt="gitlab logo" />
+</div>
 
 ###
 
-<h3 align="left">🧑‍💻 Tech Stack & Skills:</h3>
+<h5 align="left">⚙️ Web & Backend Development:</h5>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo" />
+</div>
+
+###
 
 <h5 align="left">📋 Languages & Scripting:</h5>
 
@@ -64,50 +96,12 @@
 
 ###
 
-<h5 align="left">☁️ DevOps, CI/CD & Cloud:</h5>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="40" alt="gitlab logo" />
-</div>
-
-###
-
-<h5 align="left">⚔️ Web & Backend Development:</h5>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo" />
-</div>
-
-###
-
 <h5 align="left">💾 Databases:</h5>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo" />
 </div>
 
 ###
@@ -148,72 +142,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
 </div>
 
-###
 
-<h1 align="center"></h1>
-
-###
-
-<h3 align="left">🏅 Certifications:</h3>
-
-<h5 align="left">
-- ☁️ <strong>AWS Cloud Practitioner Essentials</strong> — AWS Training & Certification (2026)<br><br>
-- 🐳 <strong>Docker Training Course for the Absolute Beginner</strong> — KodeKloud (2026)<br><br>
-- ⚙️ <strong>Kubernetes For Absolute Beginners</strong> — KodeKloud (2026)<br><br>
-- ☕ <strong>Java Object-Oriented Programming</strong> — LinkedIn Learning (2024)<br><br>
-- 🧪 <strong>Programming Foundations: Software Testing/QA</strong> — LinkedIn Learning (2024)
-</h5>
-
-###
-
-<h1 align="center"></h1>
 
 ###
 
 <h3 align="left">📑 Featured Projects:</h3>
 
 <h5 align="left">
-🔹 <strong>AI-Integrated Institute Management System with Microservices</strong> (2025)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Full-stack education management system with React + Tailwind dashboards, Jenkins CI/CD pipeline, Docker containerization, AWS EC2 deployment, Nginx reverse proxy with SSL/TLS, and Cloudflare DDoS protection.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Tech: React, Docker, Microservices, Jenkins, AWS EC2, Nginx, SSL/TLS, Cloudflare, GitLab, ML/RAG<br><br>
+🔹 <strong>Production Microservices Issue Tracker</strong> (2026) — <a href="https://gitlab.com/bawantha395/issue-tracker-newnop-micro-services" target="_blank">GitLab</a> | <a href="https://web-issue.tcmslk.me" target="_blank">Live</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Live production system deployed on AWS. Three Spring Boot microservices (auth, issue, API gateway) behind Nginx with SSL. Full Jenkins CI/CD pipeline: parallel builds, DockerHub push, S3 upload, CloudFront invalidation, and EC2 rolling deploy with health checks.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tech:</strong> Spring Boot, React, Docker, Jenkins, AWS (EC2, RDS, S3, CloudFront, ALB, WAF, KMS, ACM, SES, IAM), Nginx, MySQL<br><br>
 
-🔹 <strong>Book Fair Stall Reservation System with Microservices</strong> (2025)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Microservices backend with JWT-based auth, RBAC, API Gateway integration, and Docker Compose orchestration.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Tech: Spring Boot, Maven, Microservices, REST APIs, API Gateway, MySQL, Docker, Docker Compose<br><br>
+🔹 <strong>AI-Integrated Institute Management System</strong> (2025) — <a href="https://gitlab.com/bawantha395/tcmslk-cicd-project" target="_blank">GitLab</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Full-stack education platform with role-based dashboards for students, teachers, and admins. Barcode attendance tracking and an AI exam assistant powered by Retrieval-Augmented Generation.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tech:</strong> React, Spring Boot, Docker, Jenkins, AWS EC2, Nginx, SSL/TLS, Cloudflare, RAG<br><br>
 
-🔹 <strong>Cart Mart LK Web App Deployment — DevOps</strong> (2024)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;End-to-end DevOps implementation: Docker & Docker Compose containerization, Jenkins CI/CD pipeline with GitHub webhook triggers.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Tech: Jenkins, Docker Compose, CI/CD, Linux, GitHub<br><br>
+🔹 <strong>Book Fair Stall Reservation System</strong> (2026) — <a href="https://gitlab.com/bawantha395/book-stall-reservation-microservices-springboot" target="_blank">GitLab</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Microservices backend with JWT auth, role-based access control, API Gateway routing, and Docker Compose orchestration.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tech:</strong> Spring Boot, JWT, API Gateway, MySQL, Docker Compose<br><br>
 
-🔹 <strong>Fingerprint Attendance Tracking System (IoT)</strong> (2024)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Frontend developer for a biometric student attendance system with React + Material UI.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Tech: MERN Stack, Arduino, GitHub<br><br>
+🔹 <strong>Cart Mart LK Web App Deployment</strong> (2024) — <a href="https://github.com/Sulakshani99/CartHome.lk-Web-Application" target="_blank">GitHub</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;End-to-end DevOps implementation for an e-commerce application. Docker containerization and Jenkins CI/CD pipeline with automated deployments on every code push.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tech:</strong> Docker, Docker Compose, Jenkins, CI/CD, Linux, GitHub<br><br>
 
-🔹 <strong>Integrated Attendance Tracking System with LMS</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Collaborative project with IoT-based attendance integrated into a Learning Management System.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Tech: MERN Stack — <a href="https://github.com/OshanYelena/IOT_Attendance_system">View on GitHub</a>
+🔹 <strong>Fingerprint Attendance Tracking System (IoT)</strong> (2024) — <a href="https://github.com/OshanYelena/ATS_forntend" target="_blank">GitHub</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Biometric student attendance system using fingerprint sensors connected to an Arduino device. React frontend and Node.js + MongoDB backend.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tech:</strong> React, Node.js, Express, MongoDB, Arduino
 </h5>
 
-###
 
-<h1 align="center"></h1>
 
-###
-
-<h3 align="left">💼 Work Experience:</h3>
-
-<h5 align="left">
-🏢 <strong>SDET Intern — PickMe</strong> | Colombo, Sri Lanka | Aug 2024 – Mar 2025<br><br>
-- Built and maintained test automation frameworks for the JumJum App Price Automation project using TestNG, Maven, Selenium, Appium & Core Java.<br>
-- Managed a physical device farm for daily PickMe pricing operations in an Agile environment.<br>
-- Integrated mobile test suites with LambdaTest cloud using the Gauge framework and Appium for cross-device CI/CD execution.<br>
-- Tracked defects via JIRA and monitored live app behaviour using CleverTap.<br>
-- Executed smoke, sanity, and regression test suites for the Passenger App Revamp.
-</h5>
-
-###
-
-<h1 align="center"></h1>
 
 ###
 
@@ -227,10 +185,6 @@
 
 ###
 
-<h1 align="center"></h1>
-
-###
-
 <h3 align="left">GitHub Trophies 🏆:</h3>
 
 <div align="center">
@@ -238,8 +192,6 @@
 </div>
 
 ###
-
-<h1 align="center"></h1>
 
 <h6 align="left">💬 Have a question or want to collaborate? Feel free to reach out!</h6>
 
