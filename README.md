@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Bawantha Rathnayake</h1>
 
-<h3 align="center">Computer Engineering Graduate | DevOps & Cloud Engineer | SDET | Full-Stack Developer</h3>
+<h3 align="center">Cloud & DevOps Engineer | AWS Certified Solutions Architect – Associate</h3>
+
+<p align="center">DevOps Engineer Intern @ Mitra Innovation · Colombo, Sri Lanka<br>
+🌐 <a href="https://bawantha395.github.io" target="_blank">bawantha395.github.io</a></p>
 
 ###
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-<h5 align="left">
-- 🎓 B.Sc. (Hons) in Computer Engineering — University of Ruhuna, Sri Lanka (2021–2025)<br><br>
-- 💼 Ex-SDET Intern @ <strong>PickMe</strong> — Built test automation frameworks with Selenium, Appium, TestNG & LambdaTest in an Agile environment<br><br>
-- ☁️ Deployed a <strong>live production microservices system</strong> on AWS — EC2, RDS, S3, CloudFront, ALB, WAF, KMS, ACM, SES & IAM<br><br>
-- 🚀 Passionate about <strong>DevOps</strong>, Cloud Infrastructure, CI/CD Automation & Container Orchestration<br><br>
-- 🏅 Certified in <strong>AWS, Docker & Kubernetes</strong><br><br>
-- 📝 Writing about DevOps & Cloud on <a href="https://medium.com/@rathnayakermbtm" target="_blank">Medium</a><br><br>
-- 🏡 Based in Sri Lanka<br><br>
+- 💼 **DevOps Engineer Intern @ Mitra Innovation** (Sampath Bank project): staging deployments across VMware Tanzu Kubernetes, Finacle, Oracle WebLogic, IIS and WSO2 API Manager
+- 🧪 Previously **SDET Intern @ PickMe**: test automation with Selenium, Appium, TestNG and LambdaTest in an Agile team
+- 🎓 B.Sc. (Hons) in Computer Engineering, Faculty of Engineering, University of Ruhuna (2021–2025)
+- ☁️ Building an **AWS EKS platform** with modular Terraform, Argo CD GitOps, GitHub Actions, Prometheus and Grafana
+- 🏅 AWS Certified Solutions Architect – Associate, plus completed Kubernetes, Docker and Terraform courses on KodeKloud
+- 🌱 Growing toward platform engineering and exploring how AI can make operations faster and more reliable
+- 📝 Writing about DevOps and cloud on [Medium](https://medium.com/@rathnayakermbtm)
+- 🏡 Based in Colombo, Sri Lanka
 - ⚡ Fun Facts: 🍕 🏏 📷 💻
-</h5>
 
 ###
 
@@ -28,17 +30,11 @@
   <a href="mailto:rathnayakermbtm@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo" />
   </a>
-  <a href="https://www.hackerrank.com/profile/EG_2020_4162" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="70" height="40" alt="hackerrank logo" />
-  </a>
   <a href="https://medium.com/@rathnayakermbtm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="70" height="40" alt="medium logo" />
   </a>
-  <a href="https://www.instagram.com/bawantharathnayake" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100074753823815" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="40" alt="facebook logo" />
+  <a href="https://www.hackerrank.com/profile/EG_2020_4162" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="70" height="40" alt="hackerrank logo" />
   </a>
 </div>
 
@@ -46,22 +42,48 @@
 
 <h3 align="left">🧑‍💻 Tech Stack & Skills:</h3>
 
-<h5 align="left">☁️ DevOps, CI/CD & Cloud:</h5>
+<h5 align="left">☁️ Cloud, Containers & Infrastructure:</h5>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="40" alt="gitlab logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
+</div>
+
+###
+
+<h5 align="left">🔁 CI/CD, GitOps & Observability:</h5>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argo cd logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+</div>
+
+###
+
+<h5 align="left">♻️ Version Control:</h5>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
 </div>
 
 ###
@@ -75,10 +97,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo" />
 </div>
 
@@ -89,9 +107,11 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 </div>
 
 ###
@@ -120,58 +140,31 @@
 
 ###
 
-<h5 align="left">♻️ Version Control:</h5>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
-</div>
-
-###
-
-<h5 align="left">🎨 UI/UX & Mobile:</h5>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
-</div>
-
-
-
-###
-
 <h3 align="left">📑 Featured Projects:</h3>
 
-<h5 align="left">
-🔹 <strong>Production Microservices Issue Tracker</strong> (2026) — <a href="https://gitlab.com/bawantha395/issue-tracker-newnop-micro-services" target="_blank">GitLab</a> | <a href="https://web-issue.tcmslk.me" target="_blank">Live</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Live production system deployed on AWS. Three Spring Boot microservices (auth, issue, API gateway) behind Nginx with SSL. Full Jenkins CI/CD pipeline: parallel builds, DockerHub push, S3 upload, CloudFront invalidation, and EC2 rolling deploy with health checks.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tech:</strong> Spring Boot, React, Docker, Jenkins, AWS (EC2, RDS, S3, CloudFront, ALB, WAF, KMS, ACM, SES, IAM), Nginx, MySQL<br><br>
+🔹 **Enterprise AWS EKS GitOps Microservices Platform** (2026) — [GitHub](https://github.com/bawantha395/Kubernetes-microservices-cicd-project)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Multi-environment platform on AWS EKS built with modular Terraform. GitOps delivery with Argo CD and Kustomize, a GitHub Actions pipeline with parallel image builds to ECR (under 4 minutes end to end), HPA scaling the gateway from 1 to 5 replicas under simulated load, and Prometheus and Grafana for observability.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Tech:** AWS EKS, Terraform, Argo CD, Kustomize, GitHub Actions, ECR, Prometheus, Grafana, Route 53, CloudFront
 
-🔹 <strong>AI-Integrated Institute Management System</strong> (2025) — <a href="https://gitlab.com/bawantha395/tcmslk-cicd-project" target="_blank">GitLab</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Full-stack education platform with role-based dashboards for students, teachers, and admins. Barcode attendance tracking and an AI exam assistant powered by Retrieval-Augmented Generation.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tech:</strong> React, Spring Boot, Docker, Jenkins, AWS EC2, Nginx, SSL/TLS, Cloudflare, RAG<br><br>
+🔹 **Production Microservices Issue Tracker** (2026) — [GitLab](https://gitlab.com/bawantha395/issue-tracker-newnop-micro-services) | [Live](https://web-issue.tcmslk.me)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Live system deployed on AWS. Three Spring Boot microservices (auth, issue, API gateway) behind Nginx with SSL. Jenkins CI/CD pipeline with parallel builds, S3 upload, CloudFront invalidation and an EC2 rolling deploy with health checks.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Tech:** Spring Boot, React, Docker, Jenkins, AWS (EC2, RDS, S3, CloudFront, ALB, WAF, KMS, ACM, SES, IAM), Nginx, MySQL
 
-🔹 <strong>Book Fair Stall Reservation System</strong> (2026) — <a href="https://gitlab.com/bawantha395/book-stall-reservation-microservices-springboot" target="_blank">GitLab</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Microservices backend with JWT auth, role-based access control, API Gateway routing, and Docker Compose orchestration.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tech:</strong> Spring Boot, JWT, API Gateway, MySQL, Docker Compose<br><br>
+🔹 **AI-Integrated Institute Management System** (2025) — [GitLab](https://gitlab.com/bawantha395/tcmslk-cicd-project)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Education platform with dashboards for students, teachers and admins, barcode attendance and an AI exam assistant using Retrieval-Augmented Generation. I built the React interface and the Jenkins pipeline that deploys to AWS EC2 on every GitLab push.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Tech:** React, Tailwind CSS, Spring Boot, Docker, Jenkins, AWS EC2, Nginx, SSL/TLS, Cloudflare, RAG
 
-🔹 <strong>Cart Mart LK Web App Deployment</strong> (2024) — <a href="https://github.com/Sulakshani99/CartHome.lk-Web-Application" target="_blank">GitHub</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;End-to-end DevOps implementation for an e-commerce application. Docker containerization and Jenkins CI/CD pipeline with automated deployments on every code push.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tech:</strong> Docker, Docker Compose, Jenkins, CI/CD, Linux, GitHub<br><br>
+🔹 **Book Fair Stall Reservation System** (2025) — [GitLab](https://gitlab.com/bawantha395/book-stall-reservation-microservices-springboot)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I was the backend developer: I built the authentication (JWT with role-based access control), reservation and API gateway services in Spring Boot, and ran them together with Docker Compose.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Tech:** Spring Boot, JWT, RBAC, API Gateway, MySQL, Docker Compose
 
-🔹 <strong>Fingerprint Attendance Tracking System (IoT)</strong> (2024) — <a href="https://github.com/OshanYelena/ATS_forntend" target="_blank">GitHub</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Biometric student attendance system using fingerprint sensors connected to an Arduino device. React frontend and Node.js + MongoDB backend.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tech:</strong> React, Node.js, Express, MongoDB, Arduino
-</h5>
+🔹 **Cart Mart LK Web App Deployment** (2024) — [GitHub](https://github.com/Sulakshani99/CartHome.lk-Web-Application)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;DevOps implementation for an e-commerce application: Docker containerization and a Jenkins CI/CD pipeline with automated deployments on every code push.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Tech:** Docker, Docker Compose, Jenkins, CI/CD, Linux, GitHub
 
-
-
+🔹 **Fingerprint Attendance Tracking System (IoT)** (2024) — [GitHub](https://github.com/OshanYelena/ATS_forntend)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Biometric student attendance system using fingerprint sensors connected to an Arduino device. I was the frontend developer, building the React and Material UI interface.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Tech:** React, Material UI, Node.js, Express, MongoDB, Arduino
 
 ###
 
@@ -185,14 +178,4 @@
 
 ###
 
-<h3 align="left">GitHub Trophies 🏆:</h3>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=bawantha395&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
-
-###
-
-<h6 align="left">💬 Have a question or want to collaborate? Feel free to reach out!</h6>
-
-<p align="left">Credit: <a href="https://github.com/bawantha395">bawantha395</a></p>
+<h6 align="left">💬 Looking for a Cloud or DevOps Engineer? Feel free to reach out at <a href="mailto:rathnayakermbtm@gmail.com">rathnayakermbtm@gmail.com</a>.</h6>
