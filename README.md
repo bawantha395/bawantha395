@@ -17,7 +17,7 @@
 - 🌱 Growing toward platform engineering and exploring how AI can make operations faster and more reliable
 - 📝 Writing about DevOps and cloud on [Medium](https://medium.com/@rathnayakermbtm)
 - 🏡 Based in Colombo, Sri Lanka
-- ⚡ Fun Facts: 🍕 🏏 📷 💻
+
 
 ###
 
@@ -32,10 +32,7 @@
   </a>
   <a href="https://medium.com/@rathnayakermbtm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="70" height="40" alt="medium logo" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/EG_2020_4162" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="70" height="40" alt="hackerrank logo" />
-  </a>
+  
 </div>
 
 ###
