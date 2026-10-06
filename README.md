@@ -9,7 +9,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-- 💼 **DevOps Engineer Intern @ Mitra Innovation** (Sampath Bank project): staging deployments across VMware Tanzu Kubernetes, Finacle, Oracle WebLogic, IIS and WSO2 API Manager
+- 💼 **DevOps Engineer Intern @ Mitra AI** (Sampath Bank project): staging deployments across VMware Tanzu Kubernetes, Finacle, Oracle WebLogic, IIS and WSO2 API Manager
 - 🧪 Previously **SDET Intern @ PickMe**: test automation with Selenium, Appium, TestNG and LambdaTest in an Agile team
 - 🎓 B.Sc. (Hons) in Computer Engineering, Faculty of Engineering, University of Ruhuna (2021–2025)
 - ☁️ Building an **AWS EKS platform** with modular Terraform, Argo CD GitOps, GitHub Actions, Prometheus and Grafana
