@@ -2,7 +2,7 @@
 
 <h3 align="center">Cloud & DevOps Engineer | AWS Certified Solutions Architect – Associate</h3>
 
-<p align="center">DevOps Engineer Intern @ Mitra Innovation · Colombo, Sri Lanka<br>
+<p align="center">DevOps Engineer Intern @ Mitra AI · Colombo, Sri Lanka<br>
 🌐 <a href="https://bawantha395.github.io" target="_blank">bawantha395.github.io</a></p>
 
 ###
